@@ -62,6 +62,7 @@ We're always looking for awesome talent like you! Keep an eye out for [opportuni
   <a href="https://github.com/starboxtech" target="_blank"><img style="width:50px;height:50px;object-fit:contain;margin:15px;" src="https://raw.githubusercontent.com/starboxtech/.github/main/images/social/github-1.svg"></a>
   <a href="https://dribbble.com/starboxtech" target="_blank"><img style="width:50px;height:50px;object-fit:contain;margin:15px;" src="https://raw.githubusercontent.com/starboxtech/.github/main/images/social/dribbble-icon-1.svg"></a>
   <a href="https://starboxtech.hashnode.dev" target="_blank"><img style="width:50px;height:50px;object-fit:contain;margin:15px;" src="https://raw.githubusercontent.com/starboxtech/.github/main/images/social/hashnode-1.svg"></a>
+  <a href="https://medium.com/@starboxtech" target="_blank"><img style="width:50px;height:50px;object-fit:contain;margin:15px;" src="https://raw.githubusercontent.com/starboxtech/.github/main/images/social/medium-3.svg"></a>
 </div>
 
 - [Visit our website](https://starboxtech.com/)
